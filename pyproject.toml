@@ -4,7 +4,7 @@ version = "0.1.5"
 description = "Anti-detect browser CLI for AI agents, powered by Camoufox"
 requires-python = ">=3.10"
 license = "MIT"
-authors = [{ name = "Bin Huang" }]
+authors = [{ name = "Benn Huang" }]
 readme = "README.md"
 keywords = ["browser", "automation", "anti-detect", "camoufox", "ai-agent", "headless"]
 classifiers = [

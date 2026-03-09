@@ -12,7 +12,7 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": ["browser", "automation", "anti-detect", "camoufox", "ai-agent", "headless"],
-  "author": "Bin Huang",
+  "author": "Benn Huang",
   "license": "MIT",
   "repository": "https://github.com/Bin-Huang/camoufox-cli",
   "dependencies": {
