@@ -36,7 +36,7 @@ export class BrowserManager {
 
     ensureBrowserInstalled();
 
-    const launchOpts: Record<string, unknown> = { headless };
+    const launchOpts: Record<string, unknown> = { headless, humanize: true };
     if (this.proxy) {
       const settings = parseProxySettings(this.proxy);
       launchOpts.proxy = settings.proxy;
