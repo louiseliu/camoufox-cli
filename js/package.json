@@ -1,7 +1,7 @@
 {
-  "name": "camoufox-cli",
-  "version": "0.2.1",
-  "description": "Anti-detect headless browser automation CLI & Skills for AI agents, powered by Camoufox",
+  "name": "@louiseliu/camoufox-cli",
+  "version": "0.2.2",
+  "description": "Anti-detect browser CLI for AI agents with humanize (bezier curve mouse) enabled by default",
   "type": "module",
   "bin": {
     "camoufox-cli": "./dist/cli.js"
@@ -23,9 +23,9 @@
   ],
   "author": "Benn Huang",
   "license": "MIT",
-  "repository": "https://github.com/Bin-Huang/camoufox-cli",
-  "homepage": "https://github.com/Bin-Huang/camoufox-cli",
-  "bugs": "https://github.com/Bin-Huang/camoufox-cli/issues",
+  "repository": "https://github.com/louiseliu/camoufox-cli",
+  "homepage": "https://github.com/louiseliu/camoufox-cli",
+  "bugs": "https://github.com/louiseliu/camoufox-cli/issues",
   "dependencies": {
     "camoufox-js": "^0.8.5",
     "pdf-lib": "^1.17.1",
